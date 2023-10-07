@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Learning Java, C and C++ for now... and a bit of SQL and MIPS Assembly. Am also trying to learn to play the piano (with an electronic keyboard)
+Learning Java, C and C++ for now... and a bit of SQL and MIPS Assembly. I'm also trying to learn to play the piano (with an electronic keyboard).
+
+I might have a sufficiently decent English proficiency via text, but I'm still learning to _speak_ the language properly. I am also trying to learn Japanese and
+Spanish.
 
 <!--
 **RockyRickaby/RockyRickaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
