@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Learning Java, C and C++ for now... and a bit of SQL and MIPS Assembly. Am also trying to learn to play the piano (with an electronic keyboard)
 
 <!--
 **RockyRickaby/RockyRickaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
