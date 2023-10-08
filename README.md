@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Learning Java, C and C++ for now... and a bit of SQL and MIPS Assembly. I'm also trying to learn to play the piano (with an electronic keyboard).
+Learning Java, C and C++ for now... and a bit of SQL and MIPS Assembly. I'm also learning to play the piano (with an electronic keyboard).
 
-I might have a sufficiently decent English proficiency via text, but I'm still learning to _speak_ the language properly. I am also trying to learn Japanese and
+I might have a sufficiently decent English proficiency via text, but I'm still learning to _speak_ the language properly. I am also learning Japanese and
 Spanish.
 
 <!--
